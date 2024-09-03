@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timopython
+- 👋 Hi, I’m @timo
 - 👀 I’m interested in ue5
 - 🌱 I’m currently learning ue5
 - 💞️ I’m looking to collaborate on -
